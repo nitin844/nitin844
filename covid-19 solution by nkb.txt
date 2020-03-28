@@ -1,0 +1,60 @@
+Hello, everyone, my name is Nitin Kumar and I'm 2nd-year B.tech student from computer science branch.
+So finally I made a web-application (Corona Virus Probability Detector), And I have used Machine Learning(ML) Technology in this Project.
+I have used some Data, and Data is taking from Infected or non-infected people with Coronavirus, I have trained the Data through the Machine Learning because In Machine Learning Data has to be Trained.
+
+And I have used fake Data because I don't have real Data, And the actual Data will be provided by the Government.
+So I accepted Covid-19 solution challenge, and I create a web-application.
+So Through this web application, you can Predict the Probability of Infected with the Corona Virus. 
+If you are 20-40 Percent likely to be Infected with the Corona Virus, So actually you are not infected with the virus, And on the other side, If you are 50-80 per cent likely to be Infected with the Corona Virus, So actually you are Infected with the Virus.
+You can check the Probability with help of this Tool, and can go to the Hospital for its verification, and clear your doubts.
+
+And I have trained the Data through the Machine Learning, So through this Tool, You can estimate the Probability of Infected virus.   
+So I fill the data........
+And as You can see the probability of Infected with the coronavirus..%.
+I used these technologies for this project,
+1. ML(Machine Learning)
+2. Flask 
+3. Bootstrap
+
+For the Frontend(Bootstrap, Flask)
+And for Backend(ML).
+
+For the prediction of the Probability of Coronavirus, I have used some Virus Symptoms Factors like Cough, Fever, Breathing and Age etc.  
+So You can Add all Requirement Data in Web-Application.... and finally as You can see your probability of Infected Virus.
+If You doubt yourself whether you are Infected with the Virus or not? Then You can visit my website and fill all symptoms and then clear your doubt.
+So through this web application,  you can overcome the work of Doctors and Government employees.
+and You will be satisfied with your doubt.
+
+How to use this Web-Application:
+
+If You doubt yourself whether you are Infected with the Virus or not? So You write all requirements Data (Symptoms) like Fever, Age, and Headache etc in this website.
+And then in the next step, you see the Possibility of Infected virus in this website, If your Probability is showing low percentage, You are then satisfied with your doubt that you are not Infected with the Virus.
+And in opposition, If Your Probability is showing high percentage, So you are Infected with the virus.
+And finally, you completely satisfied with your doubt that you are infected with the virus or not?
+And with this web application, you are also helping the Doctors and Government.
+
+
+
+Work of Web-Application:
+
+This Web-application completely based on Machine-Learning, and this is the backend part of it, And on the other side, I have done it with Bootstrap and Flask for the Frontend part.
+So I have trained the Data through Machine Learning, and then Machine Learning predicts the Probability of Infected virus.   
+Through this Machine-Learning, you predict approximately 98 % accuracy with the fake data, because I don't have real data.
+
+
+The idea of Approach:
+
+Actually, with the help of this Web-Application, you can help the Government and Doctors, because through this Web-Application the work of Doctor's and Government can be reduced.
+And after checking the probability of infected virus, So you can verify through the doctors.
+So through this web application, you can clear your doubts, So anybody has doubt yourself whether you are Infected with the Virus or not?
+So before the hospital checkup, you can clear your doubts through this Web-Application.
+
+
+ 
+
+
+
+
+
+
+    
